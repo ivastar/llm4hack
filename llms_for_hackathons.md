@@ -14,14 +14,14 @@ By leveraging LLMs, hackathons can become more inclusive, productive, and engagi
 
 ## TODO
 
-- GitHub project
-- Convert to markdown
-- Guidelines for participants
-- Guidelines for organizers
-- Flesh out content
-- Integrate output from ChatGPT
-- Invite comments and discussion
-- Paper
+- [x]  GitHub project
+- [ ]  Convert to markdown
+- [ ]  Guidelines for participants
+- [ ]  Guidelines for organizers
+- [ ]  Flesh out content
+- [ ]  Integrate output from ChatGPT
+- [ ]  Invite comments and discussion
+- [ ]  Paper
 
 ---
 
