@@ -63,16 +63,17 @@ it is important for organizers to be clear on rules and expectations
 Add - Intellectual property
 What are additional considerations and concerns regarding authorship of code/output that come from LLMs 
 sharing data with LLMs that is sensitive or you don't own - this becomes part of the training data (!!!!)
+
 Based on the papers below here are 5 ethical considerations:
-1. Bias in Outputs LLMs may produce outputs that reflect inherent biases in their training data, which can unintentionally perpetuate stereotypes or inequalities in hackathon solutions​ ar5iv ar5iv
-2. Transparency in Usage Hackathon teams should clearly communicate how LLMs are used, ensuring participants and stakeholders understand AI's role in generating ideas or solutions​ ar5iv ar5iv
+1. Bias in Outputs LLMs may produce outputs that reflect inherent biases in their training data, which can unintentionally perpetuate stereotypes or inequalities in hackathon solutions​ [ar5iv](https://ar5iv.org/abs/2406.11400) [ar5iv](https://ar5iv.org/abs/2306.06283)
+2. Transparency in Usage Hackathon teams should clearly communicate how LLMs are used, ensuring participants and stakeholders understand AI's role in generating ideas or solutions​ [ar5iv](https://ar5iv.org/abs/2405.14445) [ar5iv](https://ar5iv.org/abs/2306.06283)
 2a Is there an element of "shaming" with admitting to LLM use? Is there a way to survey anonymously to avoid the double bind
 2b Organizers should provide guidance on LLM use including ethical considerations. This serves as an opportunity for education around ethical use of LLMs.
 2c The user is still responsible for outputs, 
 
-3. Over-reliance on AI Excessive dependence on LLMs can lead to reduced critical thinking or failure to scrutinize AI-generated outputs, especially when data accuracy is crucial ar5iv ar5iv
-4. Safety and Misinformation LLMs can produce incorrect or misleading information if not properly guided, posing risks in sensitive fields like healthcare, education, or scientific research ar5iv ar5iv
-5. Ethical Accessibility LLM-based tools should be designed to ensure inclusivity and fairness, avoiding barriers for less technically proficient participants or marginalized groups​ ar5iv ar5iv
+3. Over-reliance on AI Excessive dependence on LLMs can lead to reduced critical thinking or failure to scrutinize AI-generated outputs, especially when data accuracy is crucial [ar5iv] (https://ar5iv.org/pdf/2405.14445) [ar5iv](https://ar5iv.org/pdf/2306.06283v3)
+4. Safety and Misinformation LLMs can produce incorrect or misleading information if not properly guided, posing risks in sensitive fields like healthcare, education, or scientific research [ar5iv](https://ar5iv.org/abs/2406.11400) [ar5iv](https://ar5iv.org/pdf/2306.06283v3)
+5. Ethical Accessibility LLM-based tools should be designed to ensure inclusivity and fairness, avoiding barriers for less technically proficient participants or marginalized groups​ [ar5iv](https://ar5iv.org/abs/2406.11400) [ar5iv](https://ar5iv.org/pdf/2306.06283v3)
 	5a groups with paid subscriptions might have access to better models and have an advantage
 .
 
