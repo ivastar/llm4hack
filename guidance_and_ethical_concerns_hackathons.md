@@ -30,7 +30,7 @@
   - Overlooking critical edge cases where the solution may fail or behave unpredictably.
 - **Guidelines**:
   - Proactively disclose weaknesses or areas for improvement, such as lack of robustness in certain scenarios.
-- Highlight the potential risks associated with the project, such as incorrect outputs or ethical concerns.
+  - Highlight the potential risks associated with the project, such as incorrect outputs or ethical concerns.
   - Include disclaimers in the pitch and project documentation, explaining that the solution may not perform well under specific conditions.
   - Avoid hiding shortcomings; instead, position them as opportunities for future work.
 
@@ -42,7 +42,7 @@
 - **Guidelines**:
   - Implement privacy-by-design principles, ensuring minimal data collection and secure storage where applicable.
   - Conduct risk assessments to identify potential harmful applications of the solution, and document steps to mitigate them.
-  - Use mock or synthetic data during development if sensitive data is unnecessary.
+  - Use mock or synthetic data during development if sensitive data is necessary.
   - Clearly explain measures to address ethical concerns in presentations, such as adherence to data protection regulations and bias mitigation strategies.
   - Outline specific next steps for addressing current limitations and minimizing future risks (e.g., additional testing, expert reviews, or external audits).
 
