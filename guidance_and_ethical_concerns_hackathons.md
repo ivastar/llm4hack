@@ -130,17 +130,15 @@
 ---
 
 ### **6. Include disclaimers acknowledging risks and limitations of LLM-based solutions**
-#### **Key Concerns**:
-- Misrepresenting data accuracy or real-time capabilities.
-- Ignoring risks of LLM "hallucinations" (confidently stating false information).
-- Over-relying on disclaimers while overlooking harmful outputs.
+- **Key Concerns**:
+  - Misrepresenting data accuracy or real-time capabilities.
+  - Ignoring risks of LLM "hallucinations" (confidently stating false information).
+  - Over-relying on disclaimers while overlooking harmful outputs.
 
-#### **Guidelines**:
-- **Address LLM Limitations**:
-   - State that outputs may be incomplete, biased, or erroneous.
-   - Acknowledge the risks of false information, especially for high-stakes use cases.
-- **Example Disclaimers**:
-   - "This project’s outputs rely on input data quality and may include biases or errors."
-   - "The tool’s predictions are experimental and should not be used for decision-making without verification."
-- **Transparency in Functionality**:
-   - Do not claim full automation when manual steps or verifications are required.
+- **Guidelines**:
+  - Address LLM Limitations**:
+    - State that outputs may be incomplete, biased, or erroneous.
+    - Acknowledge the risks of false information, especially for high-stakes use cases such as medical advice and stock market predictions.
+  - Example Disclaimers**:
+    - "This project’s outputs rely on input data quality and may include biases or errors."
+    - "The tool’s predictions are experimental and should not be used for decision-making without verification."
